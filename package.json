@@ -1,0 +1,17 @@
+{
+  "name": "project_9_shower",
+  "version": "0.1.0",
+  "description": "Md files shower.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "butterandfly",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^0.21.0",
+    "koa-better-body": "^1.0.17",
+    "koa-router": "^5.1.2"
+  }
+}
